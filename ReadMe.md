@@ -1,4 +1,17 @@
+<img width="743" alt="image" src="https://github.com/artisanvaultcode/predestrianRCNN/assets/84333313/3a4eef5f-9b45-487d-80e1-60a5a9a6fd77">
+
+
+
 ## Pedestrian Detection
+
+## Actividad 4.1 Clasificación Keras 
+## Integrantes del Equipo 3
+
+
+A1260437 Rodia Zuriel Tejeda Moreno
+A01018289 Renata Díaz Barreiro Castro
+A01740631 Esteban Sánchez Retamoza
+A01795046 Miguel Angel Mayori
 
 
 ## Optimizer VGG16
