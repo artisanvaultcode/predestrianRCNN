@@ -8,10 +8,10 @@
 ## Integrantes del Equipo 3
 
 
-A1260437 Rodia Zuriel Tejeda Moreno
-A01018289 Renata Díaz Barreiro Castro
-A01740631 Esteban Sánchez Retamoza
-A01795046 Miguel Angel Mayori
+- A1260437 Rodia Zuriel Tejeda Moreno
+- A01018289 Renata Díaz Barreiro Castro
+- A01740631 Esteban Sánchez Retamoza
+- A01795046 Miguel Angel Mayori
 
 
 ## Optimizer VGG16
